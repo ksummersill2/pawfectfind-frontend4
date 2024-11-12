@@ -1,0 +1,1 @@
+export { default as BreedGuidePage } from './pages/BreedGuidePage';

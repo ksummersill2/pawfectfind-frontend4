@@ -1,0 +1,1 @@
+export { default as SizeCalculatorPage } from './pages/SizeCalculatorPage';
